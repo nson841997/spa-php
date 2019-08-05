@@ -1,0 +1,5 @@
+@charset "utf-8";
+/* CSS Document */
+/* Copyright 2015 by 3graphic.com */
+.sub-tab::-webkit-scrollbar{width:0 !important; height::0 !important; display:none}
+.header::-webkit-scrollbar{width:0 !important; height::0 !important; display:none}
